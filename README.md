@@ -6,7 +6,7 @@ please register your database follow the link below
 https://firebase.google.com/docs/android/setup
 
 
-also the webpage folder include the realtime.html will need the firebase please chenge yourdatabase in the code 
+also the webpage folder include the realtime.html  history.html will need the firebase please chenge yourdatabase in the code 
 
 
 var url = "https://______yourdatabase.firebaseio.com/node.json";
