@@ -10,3 +10,5 @@ also the webpage folder include the realtime.html will need the firebase please 
 
 
 var url = "https://______yourdatabase.firebaseio.com/node.json";
+
+you might need to install the Allow CORS:Access-Control-Allow-Origin plugin in chrome browser
